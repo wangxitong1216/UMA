@@ -1,0 +1,85 @@
+{
+    "infoList": [
+       
+        {
+          "partName": "armLength",
+         "value": 0.5
+        },
+		{
+          "partName": "armWidth",
+         "value": 0.5
+        },
+		{
+          "partName": "belly",
+         "value": 0.5
+        },
+		{
+          "partName": "breastSize",
+         "value": 0.5
+        },
+		{
+          "partName": "feetSize",
+         "value": 0.5
+        },
+		{
+          "partName": "forearmLength",
+         "value": 0.5
+        },
+		{
+          "partName": "forearmWidth",
+         "value": 0.5
+        },
+		{
+          "partName": "gluteusSize",
+         "value": 0.5
+        },
+		{
+          "partName": "headSize",
+         "value": 0.5
+        },
+		{
+          "partName": "legSeparation",
+         "value": 0.5
+        },
+		{
+          "partName": "height",
+         "value": 0.5
+        },
+		{
+          "partName": "legsSize",
+         "value": 0.5
+        },
+		{
+          "partName": "lowerMuscle",
+         "value": 0.5
+        },
+		{
+          "partName": "lowerWeight",
+         "value": 0.5
+        },
+		{
+          "partName": "mouthSize",
+         "value": 0.5
+        },
+		{
+          "partName": "neckThickness",
+         "value": 0.5
+        },
+		{
+          "partName": "upperMuscle",
+         "value": 0.5
+        },
+		{
+          "partName": "upperWeight",
+         "value": 0.5
+        },
+		{
+          "partName": "waist",
+         "value": 0.5
+        },
+		{
+          "partName": "handsSize",
+         "value": 0.5
+        }
+    ]
+}
